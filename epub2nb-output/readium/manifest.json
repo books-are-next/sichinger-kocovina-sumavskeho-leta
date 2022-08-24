@@ -1,0 +1,551 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Kocovina šumavského léta",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Martin Sichinger",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-02-16T00:00:00.000Z",
+    "published": "2021-02-11T08:41:15.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_065.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_kocovina_sumavskeho_leta.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Prolog",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "DÍL PRVNÍ ČTVRTEK",
+      "children": [
+        {
+          "title": "Polepšení disidenti",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_008.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Vosí besídka",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_009.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Modré desky",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_010.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Křižákův pomník",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_011.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Zaprášené bedny",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_012.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Zatoulaný modrásek",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_013.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Tekutá vata",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_014.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Babylonská věž",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_015.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Nešikovní pomocníci",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_016.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Slavnostní světlice",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_017.xhtml#_idParaDest-12"
+        }
+      ],
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_007.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "DÍL DRUHÝ PÁTEK",
+      "children": [
+        {
+          "title": "Zednická čepice",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_019.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Modrý bols",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_020.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Práškovaný plevel",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_021.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Přerývaný dech",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_022.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Ušlechtilé skutky",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_023.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Poštovní oznámení",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_024.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Ďábelské zvěsti",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_025.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Staří kamarádi",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_026.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Důvěryhodná svědectví",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_027.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Američtí výsadkáři",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_028.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Poslední figurky",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_029.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Vyděšené miminko",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_030.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Společenský odpad",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_031.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Černé bublinky",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_032.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Nezměřitelná hrdinství",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_033.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Čerstvé mozky",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_034.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Římský gladiátor",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_035.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Militantní kouzla",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_036.xhtml#_idParaDest-31"
+        }
+      ],
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_018.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "DÍL TŘETÍ SOBOTA",
+      "children": [
+        {
+          "title": "Starý pes",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_038.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Varšavské manévry",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_039.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Rodinné domy",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_040.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Slavnostní fanfára",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_041.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Dobrý náčelník",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_042.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Malý Vinnetou",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_043.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Veřejný postoj",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_044.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Zalezlí hrdinové",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_045.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Dychtiví posluchači",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_046.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Američtí výsadkáři",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_047.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Armádní manželství",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_048.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Dobří lidé",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_049.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "Nezkrocené plameny",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_050.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "Šeptající korálky",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_051.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "Nesmrtelná medúza",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_052.xhtml#_idParaDest-47"
+        }
+      ],
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_037.xhtml#_idParaDest-32"
+    },
+    {
+      "title": "DÍL ČTVRTÝ NEDĚLE",
+      "children": [
+        {
+          "title": "Nejbližší knajpa",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_054.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "Nejostřejší žiletka",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_055.xhtml#_idParaDest-50"
+        },
+        {
+          "title": "Pravěké bytosti",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_056.xhtml#_idParaDest-51"
+        },
+        {
+          "title": "Nepřítel socialismu",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_057.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "Železniční pražce",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_058.xhtml#_idParaDest-53"
+        },
+        {
+          "title": "Nezamýšlený autoportrét",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_059.xhtml#_idParaDest-54"
+        },
+        {
+          "title": "Zářivé plameny",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_060.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "Dobrá partie",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_061.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "Rozlámaná dívka",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_062.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "Lesácká košile",
+          "href": "OEBPS/Text/kocovina_sumavskeho_leta_063.xhtml#_idParaDest-58"
+        }
+      ],
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_053.xhtml#_idParaDest-48"
+    },
+    {
+      "title": "Epilog",
+      "href": "OEBPS/Text/kocovina_sumavskeho_leta_064.xhtml#_idParaDest-59"
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kocovina šumavského léta</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Prolog</text>
+      </navLabel>
+      <content src="Text/kocovina_sumavskeho_leta_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>DÍL PRVNÍ ČTVRTEK</text>
+      </navLabel>
+      <content src="Text/kocovina_sumavskeho_leta_007.xhtml#_idParaDest-2"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Polepšení disidenti</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_008.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Vosí besídka</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_009.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Modré desky</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_010.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Křižákův pomník</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_011.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Zaprášené bedny</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_012.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Zatoulaný modrásek</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_013.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Tekutá vata</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_014.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Babylonská věž</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_015.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Nešikovní pomocníci</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_016.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Slavnostní světlice</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_017.xhtml#_idParaDest-12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>DÍL DRUHÝ PÁTEK</text>
+      </navLabel>
+      <content src="Text/kocovina_sumavskeho_leta_018.xhtml#_idParaDest-13"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Zednická čepice</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_019.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Modrý bols</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_020.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Práškovaný plevel</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_021.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Přerývaný dech</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_022.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Ušlechtilé skutky</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_023.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Poštovní oznámení</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_024.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Ďábelské zvěsti</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_025.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Staří kamarádi</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_026.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Důvěryhodná svědectví</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_027.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Američtí výsadkáři</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_028.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Poslední figurky</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_029.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Vyděšené miminko</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_030.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Společenský odpad</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_031.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Černé bublinky</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_032.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Nezměřitelná hrdinství</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_033.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Čerstvé mozky</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_034.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Římský gladiátor</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_035.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Militantní kouzla</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_036.xhtml#_idParaDest-31"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>DÍL TŘETÍ SOBOTA</text>
+      </navLabel>
+      <content src="Text/kocovina_sumavskeho_leta_037.xhtml#_idParaDest-32"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Starý pes</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_038.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Varšavské manévry</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_039.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Rodinné domy</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_040.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Slavnostní fanfára</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_041.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Dobrý náčelník</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_042.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Malý Vinnetou</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_043.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Veřejný postoj</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_044.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Zalezlí hrdinové</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_045.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Dychtiví posluchači</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_046.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Američtí výsadkáři</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_047.xhtml#_idParaDest-42"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Armádní manželství</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_048.xhtml#_idParaDest-43"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Dobří lidé</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_049.xhtml#_idParaDest-44"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Nezkrocené plameny</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_050.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Šeptající korálky</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_051.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Nesmrtelná medúza</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_052.xhtml#_idParaDest-47"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>DÍL ČTVRTÝ NEDĚLE</text>
+      </navLabel>
+      <content src="Text/kocovina_sumavskeho_leta_053.xhtml#_idParaDest-48"/>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Nejbližší knajpa</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_054.xhtml#_idParaDest-49"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Nejostřejší žiletka</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_055.xhtml#_idParaDest-50"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Pravěké bytosti</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_056.xhtml#_idParaDest-51"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Nepřítel socialismu</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_057.xhtml#_idParaDest-52"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Železniční pražce</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_058.xhtml#_idParaDest-53"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Nezamýšlený autoportrét</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_059.xhtml#_idParaDest-54"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Zářivé plameny</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_060.xhtml#_idParaDest-55"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Dobrá partie</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_061.xhtml#_idParaDest-56"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Rozlámaná dívka</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_062.xhtml#_idParaDest-57"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Lesácká košile</text>
+        </navLabel>
+        <content src="Text/kocovina_sumavskeho_leta_063.xhtml#_idParaDest-58"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Epilog</text>
+      </navLabel>
+      <content src="Text/kocovina_sumavskeho_leta_064.xhtml#_idParaDest-59"/>
+    </navPoint>
+  </navMap>
+</ncx>
