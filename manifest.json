@@ -1,0 +1,1327 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Kocovina šumavského léta",
+  "author": "Martin Sichinger",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "sichinger-kocovina-sumavskeho-leta-610aaff",
+  "revision": "610aaff",
+  "readingOrder": [
+    "promo.html",
+    "kocovina_sumavskeho_leta_005.html",
+    "kocovina_sumavskeho_leta_006.html",
+    "kocovina_sumavskeho_leta_007.html",
+    "kocovina_sumavskeho_leta_008.html",
+    "kocovina_sumavskeho_leta_009.html",
+    "kocovina_sumavskeho_leta_010.html",
+    "kocovina_sumavskeho_leta_011.html",
+    "kocovina_sumavskeho_leta_012.html",
+    "kocovina_sumavskeho_leta_013.html",
+    "kocovina_sumavskeho_leta_014.html",
+    "kocovina_sumavskeho_leta_015.html",
+    "kocovina_sumavskeho_leta_016.html",
+    "kocovina_sumavskeho_leta_017.html",
+    "kocovina_sumavskeho_leta_018.html",
+    "kocovina_sumavskeho_leta_019.html",
+    "kocovina_sumavskeho_leta_020.html",
+    "kocovina_sumavskeho_leta_021.html",
+    "kocovina_sumavskeho_leta_022.html",
+    "kocovina_sumavskeho_leta_023.html",
+    "kocovina_sumavskeho_leta_024.html",
+    "kocovina_sumavskeho_leta_025.html",
+    "kocovina_sumavskeho_leta_026.html",
+    "kocovina_sumavskeho_leta_027.html",
+    "kocovina_sumavskeho_leta_028.html",
+    "kocovina_sumavskeho_leta_029.html",
+    "kocovina_sumavskeho_leta_030.html",
+    "kocovina_sumavskeho_leta_031.html",
+    "kocovina_sumavskeho_leta_032.html",
+    "kocovina_sumavskeho_leta_033.html",
+    "kocovina_sumavskeho_leta_034.html",
+    "kocovina_sumavskeho_leta_035.html",
+    "kocovina_sumavskeho_leta_036.html",
+    "kocovina_sumavskeho_leta_037.html",
+    "kocovina_sumavskeho_leta_038.html",
+    "kocovina_sumavskeho_leta_039.html",
+    "kocovina_sumavskeho_leta_040.html",
+    "kocovina_sumavskeho_leta_041.html",
+    "kocovina_sumavskeho_leta_042.html",
+    "kocovina_sumavskeho_leta_043.html",
+    "kocovina_sumavskeho_leta_044.html",
+    "kocovina_sumavskeho_leta_045.html",
+    "kocovina_sumavskeho_leta_046.html",
+    "kocovina_sumavskeho_leta_047.html",
+    "kocovina_sumavskeho_leta_048.html",
+    "kocovina_sumavskeho_leta_049.html",
+    "kocovina_sumavskeho_leta_050.html",
+    "kocovina_sumavskeho_leta_051.html",
+    "kocovina_sumavskeho_leta_052.html",
+    "kocovina_sumavskeho_leta_053.html",
+    "kocovina_sumavskeho_leta_054.html",
+    "kocovina_sumavskeho_leta_055.html",
+    "kocovina_sumavskeho_leta_056.html",
+    "kocovina_sumavskeho_leta_057.html",
+    "kocovina_sumavskeho_leta_058.html",
+    "kocovina_sumavskeho_leta_059.html",
+    "kocovina_sumavskeho_leta_060.html",
+    "kocovina_sumavskeho_leta_061.html",
+    "kocovina_sumavskeho_leta_062.html",
+    "kocovina_sumavskeho_leta_063.html",
+    "kocovina_sumavskeho_leta_064.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Sep 12 2022 11:51:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1662983513876
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kocovina_sumavskeho_leta_005.html",
+      "toc": []
+    },
+    {
+      "title": "Kocovina šumavského léta",
+      "file": "kocovina_sumavskeho_leta_005.html",
+      "words": 11,
+      "chars": 63,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "kocovina_sumavskeho_leta_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prolog",
+      "file": "kocovina_sumavskeho_leta_006.html",
+      "words": 158,
+      "chars": 911,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 2,
+      "prev": "kocovina_sumavskeho_leta_005.html",
+      "next": "kocovina_sumavskeho_leta_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prolog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL PRVNÍ ČTVRTEK",
+      "file": "kocovina_sumavskeho_leta_007.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 3,
+      "prev": "kocovina_sumavskeho_leta_006.html",
+      "next": "kocovina_sumavskeho_leta_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL PRVNÍ ČTVRTEK",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Polepšení disidenti",
+      "file": "kocovina_sumavskeho_leta_008.html",
+      "words": 591,
+      "chars": 3631,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 4,
+      "prev": "kocovina_sumavskeho_leta_007.html",
+      "next": "kocovina_sumavskeho_leta_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Polepšení disidenti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vosí besídka",
+      "file": "kocovina_sumavskeho_leta_009.html",
+      "words": 394,
+      "chars": 2203,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 5,
+      "prev": "kocovina_sumavskeho_leta_008.html",
+      "next": "kocovina_sumavskeho_leta_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vosí besídka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Modré desky",
+      "file": "kocovina_sumavskeho_leta_010.html",
+      "words": 591,
+      "chars": 3772,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 6,
+      "prev": "kocovina_sumavskeho_leta_009.html",
+      "next": "kocovina_sumavskeho_leta_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Modré desky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křižákův pomník",
+      "file": "kocovina_sumavskeho_leta_011.html",
+      "words": 572,
+      "chars": 3452,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 7,
+      "prev": "kocovina_sumavskeho_leta_010.html",
+      "next": "kocovina_sumavskeho_leta_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Křižákův pomník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zaprášené bedny",
+      "file": "kocovina_sumavskeho_leta_012.html",
+      "words": 587,
+      "chars": 3634,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 8,
+      "prev": "kocovina_sumavskeho_leta_011.html",
+      "next": "kocovina_sumavskeho_leta_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zaprášené bedny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zatoulaný modrásek",
+      "file": "kocovina_sumavskeho_leta_013.html",
+      "words": 490,
+      "chars": 2825,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 9,
+      "prev": "kocovina_sumavskeho_leta_012.html",
+      "next": "kocovina_sumavskeho_leta_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zatoulaný modrásek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tekutá vata",
+      "file": "kocovina_sumavskeho_leta_014.html",
+      "words": 1128,
+      "chars": 7153,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 10,
+      "prev": "kocovina_sumavskeho_leta_013.html",
+      "next": "kocovina_sumavskeho_leta_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tekutá vata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Babylonská věž",
+      "file": "kocovina_sumavskeho_leta_015.html",
+      "words": 1451,
+      "chars": 8552,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 11,
+      "prev": "kocovina_sumavskeho_leta_014.html",
+      "next": "kocovina_sumavskeho_leta_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Babylonská věž",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nešikovní pomocníci",
+      "file": "kocovina_sumavskeho_leta_016.html",
+      "words": 744,
+      "chars": 4417,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 12,
+      "prev": "kocovina_sumavskeho_leta_015.html",
+      "next": "kocovina_sumavskeho_leta_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nešikovní pomocníci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slavnostní světlice",
+      "file": "kocovina_sumavskeho_leta_017.html",
+      "words": 507,
+      "chars": 3116,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 13,
+      "prev": "kocovina_sumavskeho_leta_016.html",
+      "next": "kocovina_sumavskeho_leta_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slavnostní světlice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL DRUHÝ PÁTEK",
+      "file": "kocovina_sumavskeho_leta_018.html",
+      "words": 3,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 14,
+      "prev": "kocovina_sumavskeho_leta_017.html",
+      "next": "kocovina_sumavskeho_leta_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL DRUHÝ PÁTEK",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zednická čepice",
+      "file": "kocovina_sumavskeho_leta_019.html",
+      "words": 1214,
+      "chars": 7489,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 15,
+      "prev": "kocovina_sumavskeho_leta_018.html",
+      "next": "kocovina_sumavskeho_leta_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zednická čepice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Modrý bols",
+      "file": "kocovina_sumavskeho_leta_020.html",
+      "words": 1497,
+      "chars": 8794,
+      "ideas": 111,
+      "role": "chapter",
+      "order": 16,
+      "prev": "kocovina_sumavskeho_leta_019.html",
+      "next": "kocovina_sumavskeho_leta_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Modrý bols",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Práškovaný plevel",
+      "file": "kocovina_sumavskeho_leta_021.html",
+      "words": 1309,
+      "chars": 7719,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 17,
+      "prev": "kocovina_sumavskeho_leta_020.html",
+      "next": "kocovina_sumavskeho_leta_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Práškovaný plevel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přerývaný dech",
+      "file": "kocovina_sumavskeho_leta_022.html",
+      "words": 920,
+      "chars": 5187,
+      "ideas": 106,
+      "role": "chapter",
+      "order": 18,
+      "prev": "kocovina_sumavskeho_leta_021.html",
+      "next": "kocovina_sumavskeho_leta_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přerývaný dech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ušlechtilé skutky",
+      "file": "kocovina_sumavskeho_leta_023.html",
+      "words": 1009,
+      "chars": 6407,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 19,
+      "prev": "kocovina_sumavskeho_leta_022.html",
+      "next": "kocovina_sumavskeho_leta_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ušlechtilé skutky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poštovní oznámení",
+      "file": "kocovina_sumavskeho_leta_024.html",
+      "words": 743,
+      "chars": 4205,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 20,
+      "prev": "kocovina_sumavskeho_leta_023.html",
+      "next": "kocovina_sumavskeho_leta_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poštovní oznámení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ďábelské zvěsti",
+      "file": "kocovina_sumavskeho_leta_025.html",
+      "words": 513,
+      "chars": 3046,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 21,
+      "prev": "kocovina_sumavskeho_leta_024.html",
+      "next": "kocovina_sumavskeho_leta_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ďábelské zvěsti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Staří kamarádi",
+      "file": "kocovina_sumavskeho_leta_026.html",
+      "words": 806,
+      "chars": 4586,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 22,
+      "prev": "kocovina_sumavskeho_leta_025.html",
+      "next": "kocovina_sumavskeho_leta_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Staří kamarádi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Důvěryhodná svědectví",
+      "file": "kocovina_sumavskeho_leta_027.html",
+      "words": 979,
+      "chars": 5889,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 23,
+      "prev": "kocovina_sumavskeho_leta_026.html",
+      "next": "kocovina_sumavskeho_leta_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Důvěryhodná svědectví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Američtí výsadkáři",
+      "file": "kocovina_sumavskeho_leta_028.html",
+      "words": 1467,
+      "chars": 8758,
+      "ideas": 129,
+      "role": "chapter",
+      "order": 24,
+      "prev": "kocovina_sumavskeho_leta_027.html",
+      "next": "kocovina_sumavskeho_leta_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Američtí výsadkáři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poslední figurky",
+      "file": "kocovina_sumavskeho_leta_029.html",
+      "words": 1705,
+      "chars": 10180,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 25,
+      "prev": "kocovina_sumavskeho_leta_028.html",
+      "next": "kocovina_sumavskeho_leta_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poslední figurky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vyděšené miminko",
+      "file": "kocovina_sumavskeho_leta_030.html",
+      "words": 1074,
+      "chars": 6119,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 26,
+      "prev": "kocovina_sumavskeho_leta_029.html",
+      "next": "kocovina_sumavskeho_leta_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vyděšené miminko",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Společenský odpad",
+      "file": "kocovina_sumavskeho_leta_031.html",
+      "words": 1782,
+      "chars": 10441,
+      "ideas": 139,
+      "role": "chapter",
+      "order": 27,
+      "prev": "kocovina_sumavskeho_leta_030.html",
+      "next": "kocovina_sumavskeho_leta_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Společenský odpad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Černé bublinky",
+      "file": "kocovina_sumavskeho_leta_032.html",
+      "words": 1358,
+      "chars": 7716,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 28,
+      "prev": "kocovina_sumavskeho_leta_031.html",
+      "next": "kocovina_sumavskeho_leta_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Černé bublinky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nezměřitelná hrdinství",
+      "file": "kocovina_sumavskeho_leta_033.html",
+      "words": 1506,
+      "chars": 9664,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 29,
+      "prev": "kocovina_sumavskeho_leta_032.html",
+      "next": "kocovina_sumavskeho_leta_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nezměřitelná hrdinství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čerstvé mozky",
+      "file": "kocovina_sumavskeho_leta_034.html",
+      "words": 1572,
+      "chars": 9060,
+      "ideas": 105,
+      "role": "chapter",
+      "order": 30,
+      "prev": "kocovina_sumavskeho_leta_033.html",
+      "next": "kocovina_sumavskeho_leta_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čerstvé mozky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Římský gladiátor",
+      "file": "kocovina_sumavskeho_leta_035.html",
+      "words": 1003,
+      "chars": 6268,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 31,
+      "prev": "kocovina_sumavskeho_leta_034.html",
+      "next": "kocovina_sumavskeho_leta_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Římský gladiátor",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Militantní kouzla",
+      "file": "kocovina_sumavskeho_leta_036.html",
+      "words": 1899,
+      "chars": 11299,
+      "ideas": 135,
+      "role": "chapter",
+      "order": 32,
+      "prev": "kocovina_sumavskeho_leta_035.html",
+      "next": "kocovina_sumavskeho_leta_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Militantní kouzla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL TŘETÍ SOBOTA",
+      "file": "kocovina_sumavskeho_leta_037.html",
+      "words": 3,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 33,
+      "prev": "kocovina_sumavskeho_leta_036.html",
+      "next": "kocovina_sumavskeho_leta_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL TŘETÍ SOBOTA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Starý pes",
+      "file": "kocovina_sumavskeho_leta_038.html",
+      "words": 386,
+      "chars": 2409,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 34,
+      "prev": "kocovina_sumavskeho_leta_037.html",
+      "next": "kocovina_sumavskeho_leta_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Starý pes",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Varšavské manévry",
+      "file": "kocovina_sumavskeho_leta_039.html",
+      "words": 1202,
+      "chars": 7201,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 35,
+      "prev": "kocovina_sumavskeho_leta_038.html",
+      "next": "kocovina_sumavskeho_leta_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Varšavské manévry",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rodinné domy",
+      "file": "kocovina_sumavskeho_leta_040.html",
+      "words": 1290,
+      "chars": 7764,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 36,
+      "prev": "kocovina_sumavskeho_leta_039.html",
+      "next": "kocovina_sumavskeho_leta_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rodinné domy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slavnostní fanfára",
+      "file": "kocovina_sumavskeho_leta_041.html",
+      "words": 467,
+      "chars": 2909,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 37,
+      "prev": "kocovina_sumavskeho_leta_040.html",
+      "next": "kocovina_sumavskeho_leta_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slavnostní fanfára",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dobrý náčelník",
+      "file": "kocovina_sumavskeho_leta_042.html",
+      "words": 1410,
+      "chars": 8558,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 38,
+      "prev": "kocovina_sumavskeho_leta_041.html",
+      "next": "kocovina_sumavskeho_leta_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dobrý náčelník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malý Vinnetou",
+      "file": "kocovina_sumavskeho_leta_043.html",
+      "words": 887,
+      "chars": 5062,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 39,
+      "prev": "kocovina_sumavskeho_leta_042.html",
+      "next": "kocovina_sumavskeho_leta_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malý Vinnetou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Veřejný postoj",
+      "file": "kocovina_sumavskeho_leta_044.html",
+      "words": 1827,
+      "chars": 11305,
+      "ideas": 122,
+      "role": "chapter",
+      "order": 40,
+      "prev": "kocovina_sumavskeho_leta_043.html",
+      "next": "kocovina_sumavskeho_leta_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Veřejný postoj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zalezlí hrdinové",
+      "file": "kocovina_sumavskeho_leta_045.html",
+      "words": 812,
+      "chars": 4822,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 41,
+      "prev": "kocovina_sumavskeho_leta_044.html",
+      "next": "kocovina_sumavskeho_leta_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zalezlí hrdinové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dychtiví posluchači",
+      "file": "kocovina_sumavskeho_leta_046.html",
+      "words": 1325,
+      "chars": 8451,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 42,
+      "prev": "kocovina_sumavskeho_leta_045.html",
+      "next": "kocovina_sumavskeho_leta_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dychtiví posluchači",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Američtí výsadkáři",
+      "file": "kocovina_sumavskeho_leta_047.html",
+      "words": 1003,
+      "chars": 5836,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 43,
+      "prev": "kocovina_sumavskeho_leta_046.html",
+      "next": "kocovina_sumavskeho_leta_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Američtí výsadkáři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Armádní manželství",
+      "file": "kocovina_sumavskeho_leta_048.html",
+      "words": 960,
+      "chars": 5587,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 44,
+      "prev": "kocovina_sumavskeho_leta_047.html",
+      "next": "kocovina_sumavskeho_leta_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Armádní manželství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dobří lidé",
+      "file": "kocovina_sumavskeho_leta_049.html",
+      "words": 655,
+      "chars": 3745,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 45,
+      "prev": "kocovina_sumavskeho_leta_048.html",
+      "next": "kocovina_sumavskeho_leta_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dobří lidé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nezkrocené plameny",
+      "file": "kocovina_sumavskeho_leta_050.html",
+      "words": 1015,
+      "chars": 6002,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 46,
+      "prev": "kocovina_sumavskeho_leta_049.html",
+      "next": "kocovina_sumavskeho_leta_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nezkrocené plameny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šeptající korálky",
+      "file": "kocovina_sumavskeho_leta_051.html",
+      "words": 806,
+      "chars": 4770,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 47,
+      "prev": "kocovina_sumavskeho_leta_050.html",
+      "next": "kocovina_sumavskeho_leta_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šeptající korálky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nesmrtelná medúza",
+      "file": "kocovina_sumavskeho_leta_052.html",
+      "words": 1268,
+      "chars": 7250,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 48,
+      "prev": "kocovina_sumavskeho_leta_051.html",
+      "next": "kocovina_sumavskeho_leta_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nesmrtelná medúza",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL ČTVRTÝ NEDĚLE",
+      "file": "kocovina_sumavskeho_leta_053.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 49,
+      "prev": "kocovina_sumavskeho_leta_052.html",
+      "next": "kocovina_sumavskeho_leta_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL ČTVRTÝ NEDĚLE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejbližší knajpa",
+      "file": "kocovina_sumavskeho_leta_054.html",
+      "words": 1850,
+      "chars": 10430,
+      "ideas": 194,
+      "role": "chapter",
+      "order": 50,
+      "prev": "kocovina_sumavskeho_leta_053.html",
+      "next": "kocovina_sumavskeho_leta_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejbližší knajpa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejostřejší žiletka",
+      "file": "kocovina_sumavskeho_leta_055.html",
+      "words": 2302,
+      "chars": 13493,
+      "ideas": 192,
+      "role": "chapter",
+      "order": 51,
+      "prev": "kocovina_sumavskeho_leta_054.html",
+      "next": "kocovina_sumavskeho_leta_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejostřejší žiletka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pravěké bytosti",
+      "file": "kocovina_sumavskeho_leta_056.html",
+      "words": 690,
+      "chars": 3927,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 52,
+      "prev": "kocovina_sumavskeho_leta_055.html",
+      "next": "kocovina_sumavskeho_leta_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pravěké bytosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nepřítel socialismu",
+      "file": "kocovina_sumavskeho_leta_057.html",
+      "words": 2245,
+      "chars": 13601,
+      "ideas": 145,
+      "role": "chapter",
+      "order": 53,
+      "prev": "kocovina_sumavskeho_leta_056.html",
+      "next": "kocovina_sumavskeho_leta_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nepřítel socialismu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Železniční pražce",
+      "file": "kocovina_sumavskeho_leta_058.html",
+      "words": 1209,
+      "chars": 6904,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 54,
+      "prev": "kocovina_sumavskeho_leta_057.html",
+      "next": "kocovina_sumavskeho_leta_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Železniční pražce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nezamýšlený autoportrét",
+      "file": "kocovina_sumavskeho_leta_059.html",
+      "words": 1424,
+      "chars": 8134,
+      "ideas": 123,
+      "role": "chapter",
+      "order": 55,
+      "prev": "kocovina_sumavskeho_leta_058.html",
+      "next": "kocovina_sumavskeho_leta_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nezamýšlený autoportrét",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zářivé plameny",
+      "file": "kocovina_sumavskeho_leta_060.html",
+      "words": 579,
+      "chars": 3348,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 56,
+      "prev": "kocovina_sumavskeho_leta_059.html",
+      "next": "kocovina_sumavskeho_leta_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zářivé plameny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dobrá partie",
+      "file": "kocovina_sumavskeho_leta_061.html",
+      "words": 1108,
+      "chars": 6621,
+      "ideas": 102,
+      "role": "chapter",
+      "order": 57,
+      "prev": "kocovina_sumavskeho_leta_060.html",
+      "next": "kocovina_sumavskeho_leta_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dobrá partie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozlámaná dívka",
+      "file": "kocovina_sumavskeho_leta_062.html",
+      "words": 383,
+      "chars": 2172,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 58,
+      "prev": "kocovina_sumavskeho_leta_061.html",
+      "next": "kocovina_sumavskeho_leta_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozlámaná dívka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesácká košile",
+      "file": "kocovina_sumavskeho_leta_063.html",
+      "words": 2625,
+      "chars": 15043,
+      "ideas": 174,
+      "role": "chapter",
+      "order": 59,
+      "prev": "kocovina_sumavskeho_leta_062.html",
+      "next": "kocovina_sumavskeho_leta_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesácká košile",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epilog",
+      "file": "kocovina_sumavskeho_leta_064.html",
+      "words": 531,
+      "chars": 3186,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 60,
+      "prev": "kocovina_sumavskeho_leta_063.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epilog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 134,
+      "chars": 886,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "kocovina_sumavskeho_leta_064.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 59992,
+      "chars": 356088,
+      "ideas": 4624
+    },
+    "chapters": {
+      "words": 59851,
+      "chars": 355151,
+      "ideas": 4605
+    }
+  }
+}
