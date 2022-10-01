@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "sichinger-kocovina-sumavskeho-leta-8bb6e1e",
-  "revision": "8bb6e1e",
+  "identifier": "sichinger-kocovina-sumavskeho-leta-2a664ef",
+  "revision": "2a664ef",
   "readingOrder": [
     "promo.html",
     "kocovina_sumavskeho_leta_005.html",
@@ -75,8 +75,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:39:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487573458
+    "date": "Sat Oct 01 2022 15:47:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639253325
   },
   "documents": [
     {
