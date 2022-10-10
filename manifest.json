@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "sichinger-kocovina-sumavskeho-leta-2ac67b0",
-  "revision": "2ac67b0",
+  "identifier": "sichinger-kocovina-sumavskeho-leta-ae4bf6d",
+  "revision": "ae4bf6d",
   "readingOrder": [
     "promo.html",
     "kocovina_sumavskeho_leta_005.html",
@@ -75,8 +75,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:49:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150564667
+    "date": "Mon Oct 10 2022 15:41:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416488333
   },
   "documents": [
     {
@@ -1295,7 +1295,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 132,
-      "chars": 886,
+      "chars": 887,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -1315,7 +1315,7 @@
   "totals": {
     "all": {
       "words": 59990,
-      "chars": 356088,
+      "chars": 356089,
       "ideas": 4622
     },
     "chapters": {
