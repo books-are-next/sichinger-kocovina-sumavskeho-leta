@@ -9,7 +9,8 @@
       "modified": "2021-02-16T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2799-4"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "kocovina_sumavskeho_leta_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Prolog"
+            "title": "Prolog",
+            "children": []
           },
           {
             "filename": "kocovina_sumavskeho_leta_007.md",
@@ -122,6 +123,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Díl první: čtvrtek",
             "children": [
               {
                 "filename": "kocovina_sumavskeho_leta_008.md",
@@ -133,8 +135,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Polepšení disidenti"
+                "title": "Polepšení disidenti",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_009.md",
@@ -146,8 +148,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vosí besídka"
+                "title": "Vosí besídka",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_010.md",
@@ -159,8 +161,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Modré desky"
+                "title": "Modré desky",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_011.md",
@@ -172,8 +174,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Křižákův pomník"
+                "title": "Křižákův pomník",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_012.md",
@@ -185,8 +187,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zaprášené bedny"
+                "title": "Zaprášené bedny",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_013.md",
@@ -198,8 +200,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zatoulaný modrásek"
+                "title": "Zatoulaný modrásek",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_014.md",
@@ -211,8 +213,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Tekutá vata"
+                "title": "Tekutá vata",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_015.md",
@@ -224,8 +226,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Babylonská věž"
+                "title": "Babylonská věž",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_016.md",
@@ -237,8 +239,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nešikovní pomocníci"
+                "title": "Nešikovní pomocníci",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_017.md",
@@ -250,11 +252,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Slavnostní světlice"
+                "title": "Slavnostní světlice",
+                "children": []
               }
-            ],
-            "title": "Díl první: čtvrtek"
+            ]
           },
           {
             "filename": "kocovina_sumavskeho_leta_018.md",
@@ -266,6 +267,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Díl druhý: pátek",
             "children": [
               {
                 "filename": "kocovina_sumavskeho_leta_019.md",
@@ -277,8 +279,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zednická čepice"
+                "title": "Zednická čepice",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_020.md",
@@ -290,8 +292,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Modrý bols"
+                "title": "Modrý bols",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_021.md",
@@ -303,8 +305,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Práškovaný plevel"
+                "title": "Práškovaný plevel",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_022.md",
@@ -316,8 +318,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Přerývaný dech"
+                "title": "Přerývaný dech",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_023.md",
@@ -329,8 +331,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ušlechtilé skutky"
+                "title": "Ušlechtilé skutky",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_024.md",
@@ -342,8 +344,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Poštovní oznámení"
+                "title": "Poštovní oznámení",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_025.md",
@@ -355,8 +357,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ďábelské zvěsti"
+                "title": "Ďábelské zvěsti",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_026.md",
@@ -368,8 +370,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Staří kamarádi"
+                "title": "Staří kamarádi",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_027.md",
@@ -381,8 +383,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Důvěryhodná svědectví"
+                "title": "Důvěryhodná svědectví",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_028.md",
@@ -394,8 +396,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Američtí výsadkáři"
+                "title": "Američtí výsadkáři",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_029.md",
@@ -407,8 +409,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Poslední figurky"
+                "title": "Poslední figurky",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_030.md",
@@ -420,8 +422,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vyděšené miminko"
+                "title": "Vyděšené miminko",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_031.md",
@@ -433,8 +435,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Společenský odpad"
+                "title": "Společenský odpad",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_032.md",
@@ -446,8 +448,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Černé bublinky"
+                "title": "Černé bublinky",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_033.md",
@@ -459,8 +461,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nezměřitelná hrdinství"
+                "title": "Nezměřitelná hrdinství",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_034.md",
@@ -472,8 +474,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Čerstvé mozky"
+                "title": "Čerstvé mozky",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_035.md",
@@ -485,8 +487,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Římský gladiátor"
+                "title": "Římský gladiátor",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_036.md",
@@ -498,11 +500,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Militantní kouzla"
+                "title": "Militantní kouzla",
+                "children": []
               }
-            ],
-            "title": "Díl druhý: pátek"
+            ]
           },
           {
             "filename": "kocovina_sumavskeho_leta_037.md",
@@ -514,6 +515,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Díl třetí: sobota",
             "children": [
               {
                 "filename": "kocovina_sumavskeho_leta_038.md",
@@ -525,8 +527,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Starý pes"
+                "title": "Starý pes",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_039.md",
@@ -538,8 +540,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Varšavské manévry"
+                "title": "Varšavské manévry",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_040.md",
@@ -551,8 +553,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Rodinné domy"
+                "title": "Rodinné domy",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_041.md",
@@ -564,8 +566,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Slavnostní fanfára"
+                "title": "Slavnostní fanfára",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_042.md",
@@ -577,8 +579,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dobrý náčelník"
+                "title": "Dobrý náčelník",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_043.md",
@@ -590,8 +592,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Malý Vinnetou"
+                "title": "Malý Vinnetou",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_044.md",
@@ -603,8 +605,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Veřejný postoj"
+                "title": "Veřejný postoj",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_045.md",
@@ -616,8 +618,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zalezlí hrdinové"
+                "title": "Zalezlí hrdinové",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_046.md",
@@ -629,8 +631,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dychtiví posluchači"
+                "title": "Dychtiví posluchači",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_047.md",
@@ -642,8 +644,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Američtí výsadkáři"
+                "title": "Američtí výsadkáři",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_048.md",
@@ -655,8 +657,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Armádní manželství"
+                "title": "Armádní manželství",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_049.md",
@@ -668,8 +670,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dobří lidé"
+                "title": "Dobří lidé",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_050.md",
@@ -681,8 +683,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nezkrocené plameny"
+                "title": "Nezkrocené plameny",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_051.md",
@@ -694,8 +696,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Šeptající korálky"
+                "title": "Šeptající korálky",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_052.md",
@@ -707,11 +709,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nesmrtelná medúza"
+                "title": "Nesmrtelná medúza",
+                "children": []
               }
-            ],
-            "title": "Díl třetí: sobota"
+            ]
           },
           {
             "filename": "kocovina_sumavskeho_leta_053.md",
@@ -723,6 +724,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Díl čtvrtý: neděle",
             "children": [
               {
                 "filename": "kocovina_sumavskeho_leta_054.md",
@@ -734,8 +736,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nejbližší knajpa"
+                "title": "Nejbližší knajpa",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_055.md",
@@ -747,8 +749,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nejostřejší žiletka"
+                "title": "Nejostřejší žiletka",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_056.md",
@@ -760,8 +762,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pravěké bytosti"
+                "title": "Pravěké bytosti",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_057.md",
@@ -773,8 +775,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nepřítel socialismu"
+                "title": "Nepřítel socialismu",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_058.md",
@@ -786,8 +788,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Železniční pražce"
+                "title": "Železniční pražce",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_059.md",
@@ -799,8 +801,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nezamýšlený autoportrét"
+                "title": "Nezamýšlený autoportrét",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_060.md",
@@ -812,8 +814,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zářivé plameny"
+                "title": "Zářivé plameny",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_061.md",
@@ -825,8 +827,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dobrá partie"
+                "title": "Dobrá partie",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_062.md",
@@ -838,8 +840,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Rozlámaná dívka"
+                "title": "Rozlámaná dívka",
+                "children": []
               },
               {
                 "filename": "kocovina_sumavskeho_leta_063.md",
@@ -851,11 +853,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Lesácká košile"
+                "title": "Lesácká košile",
+                "children": []
               }
-            ],
-            "title": "Díl čtvrtý: neděle"
+            ]
           },
           {
             "filename": "kocovina_sumavskeho_leta_064.md",
@@ -867,8 +868,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Epilog"
+            "title": "Epilog",
+            "children": []
           },
           {
             "filename": "kocovina_sumavskeho_leta_065.md",
@@ -1362,6 +1363,6 @@
       "user": "books-are-next",
       "repo": "sichinger-kocovina-sumavskeho-leta"
     },
-    "generatedAt": 1665415537617
+    "generatedAt": 1665767398716
   }
 }

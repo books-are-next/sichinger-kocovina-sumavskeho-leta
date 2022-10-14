@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2799-4
 readingOrder:
   - promo.html
   - kocovina_sumavskeho_leta_005.html
